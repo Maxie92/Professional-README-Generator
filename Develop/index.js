@@ -15,7 +15,7 @@ ${description}
 * [Questions](#Questions)
 
 ## Installation
-To install nescessary dependencies, run the following command:
+To install necessary dependencies, run the following command:
 
 \`\`\`bash
 ${dependance}
@@ -37,8 +37,10 @@ To run the tests, use the following command:
 ${test}
 \`\`\`
 
+
 ## Questions
-If you have any questions about this repo, open an issue or email me at ${email}. You can find more of my work at ${gitRepo}.`;
+If you have any questions about this repo, open an issue or email me at ${email}. You can find more of my work at [${gitRepo}](https://github.com/${gitRepo}).`
+
 // TODO: Create an array of questions for user input
 function promptUser() {
 return inquirer
