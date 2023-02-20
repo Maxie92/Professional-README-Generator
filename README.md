@@ -1,5 +1,5 @@
 ### ${name}
-
+<!--![GitHub license](https://img.shields.io/badge/)-->
 ## Description
 ${description}
 
